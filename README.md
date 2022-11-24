@@ -16,9 +16,18 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 *My caption*
 
 
+
 2. Input valid project name and click finish.
 
 ![Semantic description of image](/image/pic2.png)
+
+*My caption*
+
+
+
+3. Assign any output pins as the GPIO output pin by clicking the pin in the pinout view. Configuration for SYS under system core pull-down menu is set to **serial wire** for debugging mode and **SysTrick** as timebase source.
+
+![Semantic description of image](/image/pic3.png)
 
 *My caption*
 
