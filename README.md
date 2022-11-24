@@ -72,7 +72,7 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 
 
-8. Connect the STM32 MCU through the USB port with the ST-LINK V2. Then, connect with the MCU and start to program it.
+8. Connect the STM32 MCU through the USB port with the ST-LINK V2. Then, connect with the MCU in the utility and start to program it.
 
 ![Semantic description of image](/image/pic8.png)
 
