@@ -25,9 +25,20 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 
 
-3. Assign any output pins as the GPIO output pin by clicking the pin in the pinout view. Configuration for SYS under system core pull-down menu is set to **serial wire** for debugging mode and **SysTrick** as timebase source.
+3. Assign any output pins as the GPIO output pin by clicking the pin in the pinout view. Configuration for SYS under system core pull-down menu is set to **serial wire** for debugging mode and **SysTrick** as timebase source. Save the project to generate C code for given project configurations.
 
 ![Semantic description of image](/image/pic3.png)
 
 *My caption*
 
+
+
+4. Only a section of the generated code is modified. In this project, the executing loop is added with built-in functions to blink the LED on the MCU with 0.5 seconds interval. 
+
+![Semantic description of image](/image/pic4.png)
+
+*My caption*
+
+
+
+5.
