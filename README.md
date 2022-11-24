@@ -54,7 +54,7 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 
 
-6.Start building the debug for the current project.
+6. Start building the debug for the current project.
 
 ![Semantic description of image](/image/pic5.png)
 
@@ -63,4 +63,17 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 
 
-7.
+7. STM32 ST-LINK Utility is utilized to program the SM32F103C8T6 MCU through an ST-LINK V2. The generated binary/hex files are opened through this application.
+
+![Semantic description of image](/image/pic7.png)
+
+*My caption*
+
+
+
+
+8. Connect the STM32 MCU through the USB port with the ST-LINK V2. Then, connect with the MCU and start to program it.
+
+![Semantic description of image](/image/pic8.png)
+
+*My caption*
