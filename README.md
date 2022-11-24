@@ -17,11 +17,13 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 
 
+
 2. Input valid project name and click finish.
 
 ![Semantic description of image](/image/pic2.png)
 
 *My caption*
+
 
 
 
@@ -33,6 +35,7 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 
 
+
 4. Only a section of the generated code is modified. In this project, the executing loop is added with built-in functions to blink the LED on the MCU with 0.5 seconds interval. 
 
 ![Semantic description of image](/image/pic4.png)
@@ -41,4 +44,10 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 
 
-5.
+
+5.Start building the debug for the current project.
+
+![Semantic description of image](/image/pic5.png)
+
+*My caption*
+
