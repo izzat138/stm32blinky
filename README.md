@@ -6,3 +6,7 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 ## Group Members
 1. Ashraf Aminin bin Arman Alim
 2. Izzat bin Idris
+
+
+## Project Procedures
+1. Start a new STM32 project and input part number according to the MCU being used.
