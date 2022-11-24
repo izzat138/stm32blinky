@@ -56,7 +56,7 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 6. Under project properties(Right click project, select properties), select to convert builds to binary and hex files under MCU Post build outputs. Apply the changes.
 
-![Semantic description of image](/image/pic1.png)
+![Semantic description of image](/image/pic6.png)
 
 *My caption*
 
