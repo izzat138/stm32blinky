@@ -83,7 +83,7 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 # Project Demo
 
-<p allign="center>
+<p allign="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_CVdfKgjmKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
