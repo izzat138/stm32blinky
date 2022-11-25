@@ -3,6 +3,8 @@ This repository documents the details of Blinky project on an STM32F103C8T6 MCU 
 
 We are required to program an STM32 MCU using open-source STM32CubeIDE in C language, so that the MCU blinks with a set interval indefinitely. A C code is included in this repository for reference.
 
+stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the STM32F103C8T6.
+
 
 
 ## Group Members (Driven Raven)
