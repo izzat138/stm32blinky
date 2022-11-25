@@ -24,7 +24,7 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic1.jpg)
 
-<\br>
+<br/>
 
 
 
