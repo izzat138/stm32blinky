@@ -114,4 +114,4 @@ In addition, counterfeit ST-LINK is an ongoing issue being investigated by STMic
 
 # References
 
-*Youtube URL: https://youtu.be/kXg467nVd_A*
+*Youtube URL (Creation of Blinky project): https://youtu.be/kXg467nVd_A*
