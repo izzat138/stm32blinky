@@ -24,7 +24,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic1.jpg)
 
-*My caption*
 
 
 
@@ -33,7 +32,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic2.png)
 
-*My caption*
 
 
 
@@ -42,7 +40,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic3.png)
 
-*My caption*
 
 
 
@@ -51,7 +48,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic4.png)
 
-*My caption*
 
 
 
@@ -60,7 +56,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic6.png)
 
-*My caption*
 
 
 
@@ -69,7 +64,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic5.png)
 
-*My caption*
 
 
 
@@ -78,7 +72,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic7.png)
 
-*My caption*
 
 
 
@@ -87,7 +80,6 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic8.png)
 
-*My caption*
 
 
 
