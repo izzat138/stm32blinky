@@ -1,6 +1,8 @@
 # stm32blinky
 This repository documents the details of Blinky project on an STM32F103C8T6 MCU using STM32CubeIDE, an open-source C/C++ development platform for STM32 microcontrollers and microprocessors.
 
+We are required to program an STM32 MCU using open-source STM32CubeIDE in C language, so that the MCU blinks with a set interval indefinitely.
+
 
 
 ## Group Members (Driven Raven)
