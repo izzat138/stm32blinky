@@ -24,8 +24,9 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 
 ![Semantic description of image](/image/pic1.jpg)
 
-<br/>
 
+<br/>
+<br/>
 
 
 2. Input valid project name and click finish.
@@ -33,7 +34,8 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 ![Semantic description of image](/image/pic2.png)
 
 
-
+<br/>
+<br/>
 
 
 3. Assign any output pins as the GPIO output pin by clicking the pin in the pinout view. Configuration for SYS under system core pull-down menu is set to **serial wire** for debugging mode and **SysTrick** as timebase source. Save the project to generate C code for given project configurations.
@@ -41,7 +43,8 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 ![Semantic description of image](/image/pic3.png)
 
 
-
+<br/>
+<br/>
 
 
 4. Only a section of the generated code is modified. In this project, the executing loop is added with built-in functions to blink the LED on the MCU with 0.5 seconds interval. 
@@ -49,7 +52,8 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 ![Semantic description of image](/image/pic4.png)
 
 
-
+<br/>
+<br/>
 
 
 5. Under project properties(Right click project, select properties), select to convert builds to binary and hex files under MCU Post build outputs. Apply the changes.
@@ -57,7 +61,8 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 ![Semantic description of image](/image/pic6.png)
 
 
-
+<br/>
+<br/>
 
 
 6. Start building the debug for the current project.
@@ -65,7 +70,8 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 ![Semantic description of image](/image/pic5.png)
 
 
-
+<br/>
+<br/>
 
 
 7. STM32 ST-LINK Utility is utilized to program the SM32F103C8T6 MCU through an ST-LINK V2. The generated binary/hex files are opened through this application.
@@ -73,7 +79,8 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 ![Semantic description of image](/image/pic7.png)
 
 
-
+<br/>
+<br/>
 
 
 8. Connect the STM32 MCU through the USB port with the ST-LINK V2. Then, connect with the MCU in the utility and start to program it.
@@ -81,7 +88,8 @@ stm32blinky contains the project that blinks an LED from GPIOD - PIN 10 on the S
 ![Semantic description of image](/image/pic8.png)
 
 
-
+<br/>
+<br/>
 
 
 # Project Demo
@@ -91,6 +99,8 @@ https://user-images.githubusercontent.com/106621749/203887910-23e8e2eb-df35-451b
 *Youtube URL: https://youtu.be/yMYyeOzHdus*
 
 
+<br/>
+<br/>
 
 
 # Reflections
