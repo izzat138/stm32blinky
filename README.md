@@ -1,7 +1,7 @@
 # stm32blinky
 This repository documents the details of Blinky project on an STM32F103C8T6 MCU using STM32CubeIDE, an open-source C/C++ development platform for STM32 microcontrollers and microprocessors.
 
-We are required to program an STM32 MCU using open-source STM32CubeIDE in C language, so that the MCU blinks with a set interval indefinitely.
+We are required to program an STM32 MCU using open-source STM32CubeIDE in C language, so that the MCU blinks with a set interval indefinitely. A C code is included in this repository for reference.
 
 
 
@@ -96,3 +96,18 @@ https://user-images.githubusercontent.com/106621749/203887910-23e8e2eb-df35-451b
 
 *Youtube URL: https://youtu.be/yMYyeOzHdus*
 
+
+
+
+# Reflections
+
+This basic STM32 project creation facilitates us to understand the capabilities and utilities provided by STM32CubeIDE to program an STM32 MCU. This repository can be referred for any future project creations.
+
+In addition, counterfeit ST-LINK is an ongoing issue being investigated by STMicroelectronics. In the recent releases of STM32CubeIDE, a counter measure is made by STMicroelectronics to prevent the programming of an STM32 MCU with a counterfeit ST-LINK. However, to overcome the difficulty of finding and owning an actual ST-LINK, STM32 ST-LINK Utility can be used to program STM32 MCU instead with a cloned ST-LINK.
+
+
+
+
+# References
+
+*Youtube URL: https://youtu.be/kXg467nVd_A*
